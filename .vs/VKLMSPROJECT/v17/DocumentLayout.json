@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Tohna\\ASP.NET\\VKLMSPROJECT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2451978-93D6-49E2-8B00-B8EBD8162C29}|VKLMSPROJECT\\VKLMSPROJECT.csproj|c:\\tohna\\asp.net\\vklmsproject\\vklmsproject\\views\\adminmanegmant\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F2451978-93D6-49E2-8B00-B8EBD8162C29}|VKLMSPROJECT\\VKLMSPROJECT.csproj|solutionrelative:vklmsproject\\views\\adminmanegmant\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2451978-93D6-49E2-8B00-B8EBD8162C29}|VKLMSPROJECT\\VKLMSPROJECT.csproj|c:\\tohna\\asp.net\\vklmsproject\\vklmsproject\\views\\adminmanegmant\\backadmin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{F2451978-93D6-49E2-8B00-B8EBD8162C29}|VKLMSPROJECT\\VKLMSPROJECT.csproj|solutionrelative:vklmsproject\\views\\adminmanegmant\\backadmin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 207,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BackAdmin.Master",
+              "DocumentMoniker": "C:\\Tohna\\ASP.NET\\VKLMSPROJECT\\VKLMSPROJECT\\Views\\AdminManegmant\\BackAdmin.Master",
+              "RelativeDocumentMoniker": "VKLMSPROJECT\\Views\\AdminManegmant\\BackAdmin.Master",
+              "ToolTip": "C:\\Tohna\\ASP.NET\\VKLMSPROJECT\\VKLMSPROJECT\\Views\\AdminManegmant\\BackAdmin.Master",
+              "RelativeToolTip": "VKLMSPROJECT\\Views\\AdminManegmant\\BackAdmin.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-03T22:37:37.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Tohna\\ASP.NET\\VKLMSPROJECT\\VKLMSPROJECT\\Views\\AdminManegmant\\Default.aspx",
+              "RelativeDocumentMoniker": "VKLMSPROJECT\\Views\\AdminManegmant\\Default.aspx",
+              "ToolTip": "C:\\Tohna\\ASP.NET\\VKLMSPROJECT\\VKLMSPROJECT\\Views\\AdminManegmant\\Default.aspx",
+              "RelativeToolTip": "VKLMSPROJECT\\Views\\AdminManegmant\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-03T22:17:13.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
